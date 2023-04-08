@@ -1,4 +1,4 @@
-(![image](https://github.com/mirazkarim/mirazkarim/blob/main/banner.jpg)
+![image](https://github.com/mirazkarim/mirazkarim/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Miraz Karim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://www.codimaths.com/assets/images/course/python%20gif.gif">
